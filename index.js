@@ -1,4 +1,5 @@
 function add(){
-   650 + 9
-  return
+  a = 650 
+  b = 9
+  return (a + b)
 }
