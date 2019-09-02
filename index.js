@@ -1,4 +1,4 @@
 function add(){
-  restult = 3 + 5
+   3 + 5 = result
   return result
 }
