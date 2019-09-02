@@ -1,4 +1,4 @@
 function add(){
-   3 + 5 = result
+   3 + 5
   return result
 }
