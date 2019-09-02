@@ -1,5 +1,5 @@
 function add(a, b){
-  a = 650
-  b = 9
+  a = 1200 
+  b = 48
   return (a + b)
 }
